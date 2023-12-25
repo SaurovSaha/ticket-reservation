@@ -100,8 +100,8 @@
                               <h4 class="fs-22 fw-semibold ff-secondary mb-4">
                                 <span
                                   class="counter-value"
-                                  data-target="{{$today_sales}}"
-                                  >{{$today_sales}}</span
+                                  data-target="0.00"
+                                  >0.00</span
                                 >tk
                               </h4>
                               <a
@@ -151,8 +151,8 @@
                           >
                             <div>
                               <h4 class="fs-22 fw-semibold ff-secondary mb-4">
-                                <span class="counter-value" data-target="{{$yesterday_sales}}"
-                                  >{{$yesterday_sales}}</span
+                                <span class="counter-value" data-target="0.00"
+                                  >0.00</span
                                 >tk
                               </h4>
                               <a
@@ -202,8 +202,8 @@
                           >
                             <div>
                               <h4 class="fs-22 fw-semibold ff-secondary mb-4">
-                                <span class="counter-value" data-target="{{$thisMonth_sales}}"
-                                  >{{$thisMonth_sales}}</span
+                                <span class="counter-value" data-target="0.00"
+                                  >0.00</span
                                 >tk
                               </h4>
                               <a
@@ -250,8 +250,8 @@
                               <h4 class="fs-22 fw-semibold ff-secondary mb-4">
                                 <span
                                   class="counter-value"
-                                  data-target="{{$lastMonth_sales}}"
-                                  >{{$lastMonth_sales}}</span
+                                  data-target="0.00"
+                                  >0.00</span
                                 >tk
                               </h4>
                               <a
