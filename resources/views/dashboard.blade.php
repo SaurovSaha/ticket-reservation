@@ -7,7 +7,7 @@
               <div class="col">
                 <div class="h-100">
                   <div class="row mb-3 pb-1">
-                    <div class="col-12">
+                    <div class="col-12"> 
                       <div
                         class="d-flex align-items-lg-center flex-lg-row flex-column"
                       >
